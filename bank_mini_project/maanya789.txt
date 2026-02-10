@@ -1,0 +1,7 @@
+maanya
+19500
+maanya789
+Maanya@789
+Name:- maanya
+opening balance= 20000
+withdraw amount:- 500 balance= 19500
