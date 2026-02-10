@@ -1,0 +1,6 @@
+nitin
+500
+nitin@678
+Nitin@456
+Name:- nitin
+opening balance= 500
